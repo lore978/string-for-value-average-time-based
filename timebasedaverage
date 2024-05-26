@@ -1,0 +1,1 @@
+int interval = (time - pretime); value = value*(pow(interval,0.5)/pow(interval,0.6)); pretime = tempo;
